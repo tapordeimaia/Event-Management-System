@@ -1,0 +1,60 @@
+Tech Conference 2023
+Annual technology conference featuring keynote speakers
+2026-11-15 09:00
+500
+https://example.com/tech-conf
+Jazz Night
+Live jazz performance at downtown club
+2026-12-05 20:00
+150
+https://example.com/jazz-night
+Art Exhibition
+Modern art showcase by local artists
+2026-01-12 10:00
+79
+https://example.com/art-show
+Startup Pitch Competition
+Entrepreneurs pitch to investors
+2026-11-28 13:30
+200
+https://example.com/startup-pitch
+Charity Gala
+Annual fundraiser for local hospital
+2026-12-15 19:00
+300
+https://example.com/charity-gala
+Python Workshop
+Hands-on Python programming tutorial
+2026-02-03 10:00
+40
+https://example.com/python-workshop
+Food Festival
+International cuisine tasting event
+2026-01-20 12:00
+1002
+https://example.com/food-fest
+Science Lecture
+Astrophysics talk by Dr. Jane Smith
+2026-11-22 18:30
+120
+https://example.com/science-lecture
+Film Premiere
+Independent film debut with Q&A
+2026-12-08 20:30
+250
+https://example.com/film-premiere
+Hackathon
+48-hour coding competition
+2026-02-10 09:00
+10
+https://example.com/hackathon 
+hey
+
+2078-01-01 00:00
+0
+http://
+Chocolate pause
+lialia
+2026-01-01 00:00
+1
+http://chocolate.com

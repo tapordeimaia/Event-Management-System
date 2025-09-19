@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (QtLifeAfterSchool.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+   Qt/MSBuild: 3.4.1.0
+  Reading Qt configuration (C:/Qt/6.9.0/msvc2022_64/bin/qmake)
+   Qt: 6.9.0
+  QTLifeAfterSchool2.vcxproj -> C:\Users\Maia\Documents\GitHub\UBB-Computer-Science\Second semester\Object Oriented Programming\Lab\QTLifeAfterSchool2\QTLifeAfterSchool2\x64\Debug\QTLifeAfterSchool2.exe

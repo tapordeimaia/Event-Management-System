@@ -1,0 +1,8 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.9.0
+  BrowseEvents.cpp
+  UserService.cpp
+C:\Users\Maia\Documents\GitHub\UBB-Computer-Science\Second semester\Object Oriented Programming\Lab\Life After School 2\Life After School 2\QtLifeAfterSchool\QtLifeAfterSchool\UserService.cpp(73,31): warning C4101: 'e': unreferenced local variable
+C:\Users\Maia\Documents\GitHub\UBB-Computer-Science\Second semester\Object Oriented Programming\Lab\Life After School 2\Life After School 2\QtLifeAfterSchool\QtLifeAfterSchool\UserService.cpp(108,32): warning C4101: 'e': unreferenced local variable
+C:\Users\Maia\Documents\GitHub\UBB-Computer-Science\Second semester\Object Oriented Programming\Lab\Life After School 2\Life After School 2\QtLifeAfterSchool\QtLifeAfterSchool\BrowseEvents.cpp(53,31): warning C4101: 'e': unreferenced local variable
+  QtLifeAfterSchool.vcxproj -> C:\Users\Maia\Documents\GitHub\UBB-Computer-Science\Second semester\Object Oriented Programming\Lab\Life After School 2\Life After School 2\QtLifeAfterSchool\x64\Debug\QtLifeAfterSchool.exe
